@@ -1,6 +1,6 @@
 package org.example;
-import org.tinylog.Logger;
 
+import org.tinylog.Logger;
 import static spark.Spark.*;
 
 public class Main {
